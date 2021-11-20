@@ -1,0 +1,8 @@
+#pragma once
+
+#ifndef _VERSION_CONFIG_H_
+#define _VERSION_CONFIG_H_
+
+const char * g_version = "${PROJECT_VERSION}"
+
+#endif // _VERSION_CONFIG_H_
